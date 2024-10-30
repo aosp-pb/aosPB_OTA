@@ -1,0 +1,12 @@
+{
+    "response": [
+        {
+            "timestamp": "TIMESTAMP_PLACEHOLDER",
+            "filename": "FILENAME_PLACEHOLDER",
+            "id": "SHA256SUM_PLACEHOLDER",
+            "size": "SIZE_PLACEHOLDER",
+            "url": "LINK_PLACEHOLDER",
+            "version": "VERSION_PLACEHOLDER"
+        }
+    ]
+}
