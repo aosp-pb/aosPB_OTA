@@ -1,13 +1,13 @@
 {
-    "response": [
-        {
-            "datetime": 1730541327,
-            "filename": "aosPB_1.0-miatoll-15.0-OFFICIAL-20241102-0907.zip",
-            "id": "986caaae33ee1d90ea5055ed219f532dc9eaac58be48afd0905fb08d334c45a6",
-            "romtype": "OFFICIAL",
-            "size": 2217952765,
-            "url": "https://adi-public-index.adi1107.workers.dev/1:/Mirror/aosPB_1.0-miatoll-15.0-OFFICIAL-20241102-0907.zip",
-            "version": "1.0"
-        }
-    ]
+  "response": [
+    {
+      "datetime": 1730598547,
+      "filename": "aosPB_1.0-miatoll-15.0-OFFICIAL-20241103-0059.zip",
+      "id": "5d608a4571fab57d87ff5bfb76767ee7d0c2845d1acbf7f81d797f7a73387262",
+      "romtype": "OFFICIAL",
+      "size": 2214100856,
+      "url": "https://adi-public-index.adi1107.workers.dev/1:/Mirror/aosPB_1.0-miatoll-15.0-OFFICIAL-20241103-0059.zip",
+      "version": "1.0"
+    }
+  ]
 }
