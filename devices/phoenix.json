@@ -1,13 +1,14 @@
+
 {
   "response": [
     {
-      "datetime": 1730728199,
-      "filename": "aosPB_1.0-phoenix-15.0-OFFICIAL-20241102-1657.zip",
-      "id": "f7d6c0fcb4e72c21f465a8384b74b53225f4846d264451d910c83a322940eebe",
+      "datetime": 1731148728,
+      "filename": "aosPB_1.1-phoenix-15.0-OFFICIAL-20241109-1041.zip",
+      "id": "4973418e95fb8553d7a11728a06b5f3a5e875cd5e82278108e7036be5ea0305f",
       "romtype": "OFFICIAL",
-      "size": 1982709549,
-      "url": "https://cold4.gofile.io/download/web/561f22f0-d0f4-49e9-85c5-877076d2d093/aosPB_1.0-phoenix-15.0-OFFICIAL-20241102-1657.zip",
-      "version": "1.0"
+      "size": 1975206173,
+      "url": "https://adi-public-index.adi1107.workers.dev/1:/Mirror/aosPB_1.1-phoenix-15.0-OFFICIAL-20241109-1041.zip",
+      "version": "1.1"
     }
   ]
 }
