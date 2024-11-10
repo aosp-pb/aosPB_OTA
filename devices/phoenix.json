@@ -1,13 +1,12 @@
-
 {
   "response": [
     {
-      "datetime": 1731148728,
-      "filename": "aosPB_1.1-phoenix-15.0-OFFICIAL-20241109-1041.zip",
-      "id": "4973418e95fb8553d7a11728a06b5f3a5e875cd5e82278108e7036be5ea0305f",
+      "datetime": 1731178726,
+      "filename": "aosPB_1.1-phoenix-15.0-OFFICIAL-20241109-1905.zip",
+      "id": "6ab3db1390cdc88e3bb430a6e1eb0b488a1bc241b4a27fdb2e479bbbf01371da",
       "romtype": "OFFICIAL",
-      "size": 1975206173,
-      "url": "https://adi-public-index.adi1107.workers.dev/1:/Mirror/aosPB_1.1-phoenix-15.0-OFFICIAL-20241109-1041.zip",
+      "size": 1975313354,
+      "url": "https://adi-public-index.adi1107.workers.dev/1:/Mirror/aosPB_1.1-phoenix-15.0-OFFICIAL-20241109-1905.zip",
       "version": "1.1"
     }
   ]
